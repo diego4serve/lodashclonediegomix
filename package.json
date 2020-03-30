@@ -1,0 +1,25 @@
+{
+  "name": "lodashclonediegomix",
+  "version": "1.0.0",
+  "description": "Lodash clone",
+  "main": "./lib/index.js",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego4serve/lodashclonediegomix.git"
+  },
+  "author": "Diego Fernando Dominguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diego4serve/lodashclonediegomix/issues"
+  },
+  "homepage": "https://github.com/diego4serve/lodashclonediegomix#readme",
+  "devDependencies": {
+    "jest": "^25.2.3"
+  }
+}
